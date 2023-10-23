@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack development<br>🌱 I’m currently learning NEXTJS, REDUX<br>
+🔭 I’m currently working on full-stack development<br>🌱 I’m currently learning MySQL<br>
 
 
 ## 🌐 Socials:
